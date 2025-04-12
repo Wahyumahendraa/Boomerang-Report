@@ -7,7 +7,7 @@
 ## 📁 Folder Structure
 
 - **Boomerang Report:**
-  Main Excel file with Power Query, Pivot Tables, and Dashboard.
+  Main Excel file with Power Query, Pivot Tables, and Dashboard. (Download for the file)
 
 - **Raw File:**
   Contains the original and cleaned datasets in CSV format.
