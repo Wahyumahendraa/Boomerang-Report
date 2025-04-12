@@ -11,6 +11,9 @@
 
 - **Raw File:**
   Contains the original and cleaned datasets in CSV format.
+  
+- **Images:**  
+  Visualizations used in the analysis.
 
 ---
 
