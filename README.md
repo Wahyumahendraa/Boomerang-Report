@@ -27,6 +27,7 @@
 - **Underperformers**:\
   **Beaut, Elevate, Flattop, LongRang, NaturalElbow, Trifly, and Vrang** all fall **below the median**, signaling potential issues in product positioning or market fit.
 
+![Boomerang-Report](Images\Product_Performance.png)
 
 ---
 
@@ -38,6 +39,8 @@
 - **Performance Gap**:\
   The rest of the team fell short of the benchmark. A small group is driving results, while the **majority are underperforming**, pointing to a **critical performance imbalance** that needs addressing.
 
+
+![Boomerang-Report](Images\Sales_representative_performance.png)
 ---
 
 ### **3. Sales Seasonality**
@@ -52,6 +55,9 @@
   **March and June** are moderate—not hitting targets, but not drastically low either.
 
 > This seasonal pattern should guide **resource planning, marketing, and strategy alignment**.
+
+![Boomerang-Report](Images\Sales_Seasonality.png)
+
 
 ---
 
@@ -72,6 +78,8 @@
 
   Lower margins in these regions signal **inefficiencies** and opportunities for improvement in cost control or sales approach.
 
+![Boomerang-Report](Images\Regional_Profitability.png)
+
 ---
 
 ### **5. Revenue & COGS Trend (2017–2024)**
@@ -80,6 +88,8 @@
 - **2017 and 2022** was the best year, surpassing **1 billion in revenue** with excellent cost management.
 - **2019** and **2024** were the weakest; **2024** being a partial year.
 - Overall, the business shows **strong operational discipline and financial resilience**.
+
+![Boomerang-Report](Images\Revenue&COGS.png)
 
 ---
 
@@ -91,6 +101,9 @@ Product categories show clear differences in profitability:
 - **Beginner** follows with a solid **24.77%**, suggesting good margins and strong appeal as an entry-level product.
 - **Advanced** stands at **18.97%**, a decent margin but may benefit from a review of pricing or cost structure.
 - **Competition** and **Long Distance** have the lowest margins at **13.04%** and **13.23%**, which may require further analysis to improve pricing strategy or reduce costs.
+
+
+![Boomerang-Report](Images\Category_Profitability.png)
 
 ---
 
@@ -107,6 +120,9 @@ The years **2020**, **2022**, and **2024** show solid YTD growth compared to the
 
 However, **2023** disrupted this pattern, with YTD revenue falling to **\$409M** from **\$1.02B** the previous year, indicating possible market disruption or internal challenges.
 
+
+![Boomerang-Report](Images\PYTDvsYTD.png)
+
 ---
 
 ### **8. YoY Growth**
@@ -118,6 +134,8 @@ The momentum didn’t fully carry through to **2021**, where the business experi
 However, **2023** brought another setback with a **-59.88%** decline, hinting at market pressure or internal bottlenecks that disrupted progress.
 
 Now in **2024**, even though it's still early in the year, the business is starting to recover with a modest yet encouraging **+8.38% growth**, signaling the potential for a more stable year ahead.
+
+![Boomerang-Report](Images\YoY_growth.png)
 
 ---
 
