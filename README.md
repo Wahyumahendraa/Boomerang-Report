@@ -27,7 +27,7 @@
 - **Underperformers**:\
   **Beaut, Elevate, Flattop, LongRang, NaturalElbow, Trifly, and Vrang** all fall **below the median**, signaling potential issues in product positioning or market fit.
 
-![Boomerang-Report](Images\Product_Performance.png)
+![Boomerang-Report](Images/Product_Performance.png)
 
 ---
 
@@ -40,7 +40,8 @@
   The rest of the team fell short of the benchmark. A small group is driving results, while the **majority are underperforming**, pointing to a **critical performance imbalance** that needs addressing.
 
 
-![Boomerang-Report](Images\Sales_representative_performance.png)
+![Boomerang-Report](Images/Sales_representative_performance.png)
+
 ---
 
 ### **3. Sales Seasonality**
@@ -56,7 +57,7 @@
 
 > This seasonal pattern should guide **resource planning, marketing, and strategy alignment**.
 
-![Boomerang-Report](Images\Sales_Seasonality.png)
+![Boomerang-Report](Images/Sales_Seasonality.png)
 
 
 ---
@@ -78,7 +79,7 @@
 
   Lower margins in these regions signal **inefficiencies** and opportunities for improvement in cost control or sales approach.
 
-![Boomerang-Report](Images\Regional_Profitability.png)
+![Boomerang-Report](Images/Regional_Profitability.png)
 
 ---
 
@@ -89,7 +90,7 @@
 - **2019** and **2024** were the weakest; **2024** being a partial year.
 - Overall, the business shows **strong operational discipline and financial resilience**.
 
-![Boomerang-Report](Images\Revenue&COGS.png)
+![Boomerang-Report](Images/Revenue&COGS.png)
 
 ---
 
@@ -103,7 +104,7 @@ Product categories show clear differences in profitability:
 - **Competition** and **Long Distance** have the lowest margins at **13.04%** and **13.23%**, which may require further analysis to improve pricing strategy or reduce costs.
 
 
-![Boomerang-Report](Images\Category_Profitability.png)
+![Boomerang-Report](Images/Category_Profitability.png)
 
 ---
 
@@ -121,7 +122,7 @@ The years **2020**, **2022**, and **2024** show solid YTD growth compared to the
 However, **2023** disrupted this pattern, with YTD revenue falling to **\$409M** from **\$1.02B** the previous year, indicating possible market disruption or internal challenges.
 
 
-![Boomerang-Report](Images\PYTDvsYTD.png)
+![Boomerang-Report](Images/PYTDvsYTD.png)
 
 ---
 
@@ -135,7 +136,7 @@ However, **2023** brought another setback with a **-59.88%** decline, hinting at
 
 Now in **2024**, even though it's still early in the year, the business is starting to recover with a modest yet encouraging **+8.38% growth**, signaling the potential for a more stable year ahead.
 
-![Boomerang-Report](Images\YoY_growth.png)
+![Boomerang-Report](Images/YoY_growth.png)
 
 ---
 
